@@ -1,0 +1,6 @@
+{
+  "ms_interval": 300000,
+  "go_fund_me_campaign": "<CAMPAIGN NAME HERE>",
+  "discord_webook_url": "<DISCORD CHANNEL WEBHOOK HERE>",
+  "offset": 20
+}
