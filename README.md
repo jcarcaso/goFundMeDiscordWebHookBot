@@ -25,4 +25,6 @@ Follow the following steps to set up your AWS components. Please note this guide
 4. Create a schedule with EventBridge with the correct config
 
 ## TO DO
-* More in this wiki to come
+* Actually elaborate on the set up
+* Add information about the lambda function, how it works, and how test
+* Set this up via CDK to allow for easy setup
